@@ -1,2 +1,0 @@
-# shelby.
-ITMGT_demo
